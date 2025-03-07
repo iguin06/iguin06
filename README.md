@@ -1,4 +1,4 @@
-- 🎓 cursandp em Análise e Desenvolvimento de Sistemas no grau tecnico .
+- 🎓 cursando em Análise e Desenvolvimento de Sistemas no grau tecnico .
 - 💻 Trabalho como Desenvolvedor de Sistemas.
 - 🌱 Atualmente aprendendo mais sobre  c#.
 
